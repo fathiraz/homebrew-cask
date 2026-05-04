@@ -1,0 +1,34 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "5fe2c9c8df14f89f309551e4e7cdc5c0f9672e2a",
+  "prompts": {
+    "12a0695ee14dfcc1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "opencode-transcript-ses_20d40490fffeW8cqfbcCtWwARW-98cd4b7d-db51-4bdc-84f6-40f388e010d4",
+        "model": "unknown"
+      },
+      "human_author": "Fathiraz Arthuro",
+      "messages": [],
+      "total_additions": 32,
+      "total_deletions": 0,
+      "accepted_lines": 32,
+      "overriden_lines": 0
+    },
+    "a8a610b882c016e8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "opencode-transcript-ses_20d40490fffeW8cqfbcCtWwARW-29d37c2a-14c9-48b7-a4ee-9f310d446f44",
+        "model": "unknown"
+      },
+      "human_author": "Fathiraz Arthuro",
+      "messages": [],
+      "total_additions": 501,
+      "total_deletions": 0,
+      "accepted_lines": 501,
+      "overriden_lines": 0
+    }
+  }
+}
