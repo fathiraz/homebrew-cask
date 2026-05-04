@@ -1,0 +1,24 @@
+Casks/f/factory.rb
+  5fe5ec65a529f636 10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "bfe2c025ff453fb13904f138a4d9b1ccb5cce8de",
+  "prompts": {
+    "5fe5ec65a529f636": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "82df70b6-2593-458b-8901-14db668ed1fc",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Fathiraz Arthuro",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 31,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/58c15e6241223ddc630c2a8df9e65f9b8b6c5ffb4fcdeac21042497cb96fa36a"
+    }
+  }
+}
